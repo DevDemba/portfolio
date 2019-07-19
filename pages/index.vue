@@ -34,7 +34,7 @@
             color="primary"
             flat
             nuxt
-            to="/inspire"
+            to="/about"
           >
             Continue
           </v-btn>

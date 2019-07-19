@@ -1,11 +1,16 @@
 <template>
   <v-layout>
     <v-flex text-xs-center>
-      <img
-        src="/v.png"
-        alt="Vuetify.js"
-        class="mb-5"
-      >
+      <v-layout align-center justify-center>
+        <v-img
+          src="./myprofile.png"
+          alt="myprofile"
+          class="mb-5"
+          aspect-ratio="1"
+          max-width="400"
+          max-height="600"
+        ></v-img>
+      </v-layout>
       <blockquote class="blockquote">
         &#8220;Hi, i'm a full stack web developer javaScript.&#8221;
         <footer>

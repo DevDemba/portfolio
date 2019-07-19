@@ -16,7 +16,7 @@
           exact
         >
           <v-list-tile-action>
-            
+
             <v-icon>{{ item.icon }}</v-icon>
           </v-list-tile-action>
           <v-list-tile-content>
@@ -104,14 +104,24 @@ export default {
         },
         {
           icon: 'bubble_chart',
-          title: 'Inspire',
-          to: '/inspire'
+          title: 'About',
+          to: '/about'
+        },
+        {
+          icon: 'works',
+          title: 'Cv',
+          to: '/cv'
+        },
+        {
+          icon: 'email',
+          title: 'Contact',
+          to: '/contact'
         }
       ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js'
+      title: 'MyPortfolio'
     }
   }
 }
