@@ -7,10 +7,10 @@
         class="mb-5"
       >
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+        &#8220;Hi, i'm a full stack web developer javaScript.&#8221;
         <footer>
           <small>
-            <em>&mdash;John Johnson</em>
+            <em>&mdash; Demba DIA</em>
           </small>
         </footer>
       </blockquote>
